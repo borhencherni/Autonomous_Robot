@@ -12,8 +12,8 @@
 // If you set HOSTNAME and your router supports mDNS, you can access
 // the camera at http://{HOSTNAME}.local
 
-#define WIFI_SSID "Redmi 12C"
-#define WIFI_PASS "borhen12"
+#define WIFI_SSID "**********"
+#define WIFI_PASS "**********"
 #define HOSTNAME "esp32cam"
 
 
